@@ -1,0 +1,11 @@
+自动化专业产业与就业调研指南 v0.1.0
+
+解压后从 README.md 开始阅读。
+快速阅读论文：reports/automation-survey-v0.1.pdf
+编辑论文：reports/automation-survey-v0.1.docx
+分章正文：docs/
+来源与核验记录：sources.md、data/sources.json
+补充方法：CONTRIBUTING.md、templates/
+
+GitHub仓库：https://github.com/1607282522co-ui/automation-career-guide
+本包不包含账号凭据、原始第三方Word文件或许可证文件。
